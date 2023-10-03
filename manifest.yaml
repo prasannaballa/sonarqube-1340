@@ -16,7 +16,7 @@ metadata:
 data:
   POSTGRES_DB: sonarqube
   POSTGRES_USER: sonarqube
-  POSTGRES_PASSWORD: pras8812
+  POSTGRES_PASSWORD: sonarqube123
 
  
 
@@ -29,7 +29,7 @@ metadata:
   namespace: sonarqube
 type: Opaque
 data:
-  POSTGRES_PASSWORD: pras8812
+  POSTGRES_PASSWORD: sonarqube123
 
 ---
 
